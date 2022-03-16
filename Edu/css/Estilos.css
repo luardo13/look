@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(131, 14, 106);
+    background-image: linear-gradient(purple, cyan, green);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10ex;
+    text-align: justify;
+}
+#imagem{
+    padding: auto;
+    text-align: center;
+}
+
+
+#um{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    font-size: 1em;
+}
+#dois{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkgoldenrod;
+    font-size: 1em;
+}
+#tres{
+    font-family: unset;
+    color: blanchedalmond;
+    font-size: 1em;
+}
+#quatro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 1.5em;
+}
+#cinco{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-size: 2em;
+}
